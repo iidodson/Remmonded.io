@@ -1,0 +1,18 @@
+.UserList{
+    width: 504%;
+    background-color: #F4F8FB;
+}
+
+.test2{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    margin-top: 4rem;
+}
+
+.container-users{
+    display: flex;
+    height: 100%;
+}

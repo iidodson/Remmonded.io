@@ -1,0 +1,11 @@
+.useritem {
+    background-color: white;
+    display: flex;
+    margin: 1.5rem;
+}
+
+.useritem-details{
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+

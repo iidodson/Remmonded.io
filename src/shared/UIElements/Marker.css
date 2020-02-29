@@ -1,0 +1,15 @@
+.marker{
+    background-color: rgba(98, 1, 255, 0.228);
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.marker-dot {
+    top: 25%; left:25%; /* of the container */
+    width:50%; /* of the container */
+    height:50%; /* of the container */
+    position: relative;
+    background-color: #6201FF;
+    border-radius: 50%;
+}
